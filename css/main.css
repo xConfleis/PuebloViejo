@@ -1,0 +1,6 @@
+#paginator>section{
+    display: none
+}
+#paginator>section[id="Dashboard"]{
+    display: block
+}
